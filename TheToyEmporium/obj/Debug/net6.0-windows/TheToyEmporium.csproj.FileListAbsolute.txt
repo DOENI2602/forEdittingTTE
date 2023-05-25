@@ -1,0 +1,68 @@
+C:\Users\DOEL USER\Desktop\TheToyEmporium\TheToyEmporium\TheToyEmporium\bin\Debug\net6.0-windows\TheToyEmporium.exe
+C:\Users\DOEL USER\Desktop\TheToyEmporium\TheToyEmporium\TheToyEmporium\bin\Debug\net6.0-windows\TheToyEmporium.deps.json
+C:\Users\DOEL USER\Desktop\TheToyEmporium\TheToyEmporium\TheToyEmporium\bin\Debug\net6.0-windows\TheToyEmporium.runtimeconfig.json
+C:\Users\DOEL USER\Desktop\TheToyEmporium\TheToyEmporium\TheToyEmporium\bin\Debug\net6.0-windows\TheToyEmporium.dll
+C:\Users\DOEL USER\Desktop\TheToyEmporium\TheToyEmporium\TheToyEmporium\bin\Debug\net6.0-windows\TheToyEmporium.pdb
+C:\Users\DOEL USER\Desktop\TheToyEmporium\TheToyEmporium\TheToyEmporium\obj\Debug\net6.0-windows\TheToyEmporium.csproj.AssemblyReference.cache
+C:\Users\DOEL USER\Desktop\TheToyEmporium\TheToyEmporium\TheToyEmporium\obj\Debug\net6.0-windows\TheToyEmporium.CreateAcc_UserControl.resources
+C:\Users\DOEL USER\Desktop\TheToyEmporium\TheToyEmporium\TheToyEmporium\obj\Debug\net6.0-windows\TheToyEmporium.Form1.resources
+C:\Users\DOEL USER\Desktop\TheToyEmporium\TheToyEmporium\TheToyEmporium\obj\Debug\net6.0-windows\TheToyEmporium.LogIn_UserControl.resources
+C:\Users\DOEL USER\Desktop\TheToyEmporium\TheToyEmporium\TheToyEmporium\obj\Debug\net6.0-windows\TheToyEmporium.Properties.Resources.resources
+C:\Users\DOEL USER\Desktop\TheToyEmporium\TheToyEmporium\TheToyEmporium\obj\Debug\net6.0-windows\TheToyEmporium.csproj.GenerateResource.cache
+C:\Users\DOEL USER\Desktop\TheToyEmporium\TheToyEmporium\TheToyEmporium\obj\Debug\net6.0-windows\TheToyEmporium.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DOEL USER\Desktop\TheToyEmporium\TheToyEmporium\TheToyEmporium\obj\Debug\net6.0-windows\TheToyEmporium.AssemblyInfoInputs.cache
+C:\Users\DOEL USER\Desktop\TheToyEmporium\TheToyEmporium\TheToyEmporium\obj\Debug\net6.0-windows\TheToyEmporium.AssemblyInfo.cs
+C:\Users\DOEL USER\Desktop\TheToyEmporium\TheToyEmporium\TheToyEmporium\obj\Debug\net6.0-windows\TheToyEmporium.csproj.CoreCompileInputs.cache
+C:\Users\DOEL USER\Desktop\TheToyEmporium\TheToyEmporium\TheToyEmporium\obj\Debug\net6.0-windows\TheToyEmporium.dll
+C:\Users\DOEL USER\Desktop\TheToyEmporium\TheToyEmporium\TheToyEmporium\obj\Debug\net6.0-windows\refint\TheToyEmporium.dll
+C:\Users\DOEL USER\Desktop\TheToyEmporium\TheToyEmporium\TheToyEmporium\obj\Debug\net6.0-windows\TheToyEmporium.pdb
+C:\Users\DOEL USER\Desktop\TheToyEmporium\TheToyEmporium\TheToyEmporium\obj\Debug\net6.0-windows\TheToyEmporium.genruntimeconfig.cache
+C:\Users\DOEL USER\Desktop\TheToyEmporium\TheToyEmporium\TheToyEmporium\obj\Debug\net6.0-windows\ref\TheToyEmporium.dll
+C:\Users\DOEL USER\Desktop\TheToyEmporium\TheToyEmporium\TheToyEmporium\obj\Debug\net6.0-windows\TheToyEmporium.Homepage_UserControl.resources
+C:\Users\OO132\Source\Repos\updateprojectappsdev\TheToyEmporium\bin\Debug\net6.0-windows\TheToyEmporium.exe
+C:\Users\OO132\Source\Repos\updateprojectappsdev\TheToyEmporium\bin\Debug\net6.0-windows\TheToyEmporium.deps.json
+C:\Users\OO132\Source\Repos\updateprojectappsdev\TheToyEmporium\bin\Debug\net6.0-windows\TheToyEmporium.runtimeconfig.json
+C:\Users\OO132\Source\Repos\updateprojectappsdev\TheToyEmporium\bin\Debug\net6.0-windows\TheToyEmporium.dll
+C:\Users\OO132\Source\Repos\updateprojectappsdev\TheToyEmporium\bin\Debug\net6.0-windows\TheToyEmporium.pdb
+C:\Users\OO132\Source\Repos\updateprojectappsdev\TheToyEmporium\obj\Debug\net6.0-windows\TheToyEmporium.csproj.AssemblyReference.cache
+C:\Users\OO132\Source\Repos\updateprojectappsdev\TheToyEmporium\obj\Debug\net6.0-windows\TheToyEmporium.CreateAcc_UserControl.resources
+C:\Users\OO132\Source\Repos\updateprojectappsdev\TheToyEmporium\obj\Debug\net6.0-windows\TheToyEmporium.Form1.resources
+C:\Users\OO132\Source\Repos\updateprojectappsdev\TheToyEmporium\obj\Debug\net6.0-windows\TheToyEmporium.Homepage_UserControl.resources
+C:\Users\OO132\Source\Repos\updateprojectappsdev\TheToyEmporium\obj\Debug\net6.0-windows\TheToyEmporium.LogIn_UserControl.resources
+C:\Users\OO132\Source\Repos\updateprojectappsdev\TheToyEmporium\obj\Debug\net6.0-windows\TheToyEmporium.Properties.Resources.resources
+C:\Users\OO132\Source\Repos\updateprojectappsdev\TheToyEmporium\obj\Debug\net6.0-windows\TheToyEmporium.csproj.GenerateResource.cache
+C:\Users\OO132\Source\Repos\updateprojectappsdev\TheToyEmporium\obj\Debug\net6.0-windows\TheToyEmporium.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OO132\Source\Repos\updateprojectappsdev\TheToyEmporium\obj\Debug\net6.0-windows\TheToyEmporium.AssemblyInfoInputs.cache
+C:\Users\OO132\Source\Repos\updateprojectappsdev\TheToyEmporium\obj\Debug\net6.0-windows\TheToyEmporium.AssemblyInfo.cs
+C:\Users\OO132\Source\Repos\updateprojectappsdev\TheToyEmporium\obj\Debug\net6.0-windows\TheToyEmporium.csproj.CoreCompileInputs.cache
+C:\Users\OO132\Source\Repos\updateprojectappsdev\TheToyEmporium\obj\Debug\net6.0-windows\TheToyEmporium.dll
+C:\Users\OO132\Source\Repos\updateprojectappsdev\TheToyEmporium\obj\Debug\net6.0-windows\refint\TheToyEmporium.dll
+C:\Users\OO132\Source\Repos\updateprojectappsdev\TheToyEmporium\obj\Debug\net6.0-windows\TheToyEmporium.pdb
+C:\Users\OO132\Source\Repos\updateprojectappsdev\TheToyEmporium\obj\Debug\net6.0-windows\TheToyEmporium.genruntimeconfig.cache
+C:\Users\OO132\Source\Repos\updateprojectappsdev\TheToyEmporium\obj\Debug\net6.0-windows\ref\TheToyEmporium.dll
+C:\Users\OO132\Source\Repos\updateprojectappsdev\TheToyEmporium\obj\Debug\net6.0-windows\TheToyEmporium.Profile_UserControl1.resources
+C:\Users\DOEL USER\Desktop\TTE\TheToyEmporium\bin\Debug\net6.0-windows\TheToyEmporium.exe
+C:\Users\DOEL USER\Desktop\TTE\TheToyEmporium\bin\Debug\net6.0-windows\TheToyEmporium.deps.json
+C:\Users\DOEL USER\Desktop\TTE\TheToyEmporium\bin\Debug\net6.0-windows\TheToyEmporium.runtimeconfig.json
+C:\Users\DOEL USER\Desktop\TTE\TheToyEmporium\bin\Debug\net6.0-windows\TheToyEmporium.dll
+C:\Users\DOEL USER\Desktop\TTE\TheToyEmporium\bin\Debug\net6.0-windows\TheToyEmporium.pdb
+C:\Users\DOEL USER\Desktop\TTE\TheToyEmporium\obj\Debug\net6.0-windows\TheToyEmporium.csproj.AssemblyReference.cache
+C:\Users\DOEL USER\Desktop\TTE\TheToyEmporium\obj\Debug\net6.0-windows\TheToyEmporium.CheckOut_UserControl1.resources
+C:\Users\DOEL USER\Desktop\TTE\TheToyEmporium\obj\Debug\net6.0-windows\TheToyEmporium.CreateAcc_UserControl.resources
+C:\Users\DOEL USER\Desktop\TTE\TheToyEmporium\obj\Debug\net6.0-windows\TheToyEmporium.Form1.resources
+C:\Users\DOEL USER\Desktop\TTE\TheToyEmporium\obj\Debug\net6.0-windows\TheToyEmporium.Homepage_UserControl.resources
+C:\Users\DOEL USER\Desktop\TTE\TheToyEmporium\obj\Debug\net6.0-windows\TheToyEmporium.LogIn_UserControl.resources
+C:\Users\DOEL USER\Desktop\TTE\TheToyEmporium\obj\Debug\net6.0-windows\TheToyEmporium.OrderUserControl1.resources
+C:\Users\DOEL USER\Desktop\TTE\TheToyEmporium\obj\Debug\net6.0-windows\TheToyEmporium.Profile_UserControl1.resources
+C:\Users\DOEL USER\Desktop\TTE\TheToyEmporium\obj\Debug\net6.0-windows\TheToyEmporium.Properties.Resources.resources
+C:\Users\DOEL USER\Desktop\TTE\TheToyEmporium\obj\Debug\net6.0-windows\TheToyEmporium.Receipt_UserControl1.resources
+C:\Users\DOEL USER\Desktop\TTE\TheToyEmporium\obj\Debug\net6.0-windows\TheToyEmporium.csproj.GenerateResource.cache
+C:\Users\DOEL USER\Desktop\TTE\TheToyEmporium\obj\Debug\net6.0-windows\TheToyEmporium.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DOEL USER\Desktop\TTE\TheToyEmporium\obj\Debug\net6.0-windows\TheToyEmporium.AssemblyInfoInputs.cache
+C:\Users\DOEL USER\Desktop\TTE\TheToyEmporium\obj\Debug\net6.0-windows\TheToyEmporium.AssemblyInfo.cs
+C:\Users\DOEL USER\Desktop\TTE\TheToyEmporium\obj\Debug\net6.0-windows\TheToyEmporium.csproj.CoreCompileInputs.cache
+C:\Users\DOEL USER\Desktop\TTE\TheToyEmporium\obj\Debug\net6.0-windows\TheToyEmporium.dll
+C:\Users\DOEL USER\Desktop\TTE\TheToyEmporium\obj\Debug\net6.0-windows\refint\TheToyEmporium.dll
+C:\Users\DOEL USER\Desktop\TTE\TheToyEmporium\obj\Debug\net6.0-windows\TheToyEmporium.pdb
+C:\Users\DOEL USER\Desktop\TTE\TheToyEmporium\obj\Debug\net6.0-windows\TheToyEmporium.genruntimeconfig.cache
+C:\Users\DOEL USER\Desktop\TTE\TheToyEmporium\obj\Debug\net6.0-windows\ref\TheToyEmporium.dll
